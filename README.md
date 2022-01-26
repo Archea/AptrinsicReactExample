@@ -1,3 +1,6 @@
+## Look in console to see that window.aptrinsic is undefined. If you use aptrinsic in the console the function is available.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
