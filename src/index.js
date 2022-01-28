@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 console.log('aptrin  :  ' + JSON.stringify(window.aptrinsic))
 //console.log('aptrin  :  ' + JSON.stringify(aptrinsic))
-
+aptrinsic('identify', {id: 'user-id'});
 ReactDOM.render(
   <React.StrictMode>
     <App />
