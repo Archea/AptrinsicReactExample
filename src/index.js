@@ -4,8 +4,12 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 console.log('aptrin  :  ' + JSON.stringify(window.aptrinsic))
-//console.log('aptrin  :  ' + JSON.stringify(aptrinsic))
+//Undifined
+console.log('aptrin  :  ' + JSON.stringify(aptrinsic))
+//Undifined
 aptrinsic('identify', {id: 'user-id'});
+//Error
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
